@@ -5,6 +5,6 @@ draw_self()
 
 draw_set_halign(1)
 draw_set_valign(1)
-draw_text(x,y, "jogar novamente")
+draw_text(x,y, "tela de titulo")
 draw_set_halign(-1)
 draw_set_valign(-1)
