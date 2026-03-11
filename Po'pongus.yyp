@@ -44,6 +44,7 @@
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},"order":2,},
     {"id":{"name":"Spr_raquete_rm2","path":"sprites/Spr_raquete_rm2/Spr_raquete_rm2.yy",},"order":11,},
     {"id":{"name":"rm_menu_2","path":"rooms/rm_menu_2/rm_menu_2.yy",},"order":3,},
+    {"id":{"name":"Obj_bota0__sair","path":"objects/Obj_bota0__sair/Obj_bota0__sair.yy",},"order":19,},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},"order":0,},
     {"id":{"name":"Obj_gol","path":"objects/Obj_gol/Obj_gol.yy",},"order":5,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
