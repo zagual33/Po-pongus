@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_raquete01",
+  "name": "Obj_colissao1",
   "spriteId": {
-    "name": "Spr_raquete",
-    "path": "sprites/Spr_raquete/Spr_raquete.yy",
+    "name": "Spr_colissao",
+    "path": "sprites/Spr_colissao/Spr_colissao.yy",
   },
   "solid": true,
   "visible": true,
@@ -24,11 +24,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Obj_colissao1","path":"objects/Obj_colissao1/Obj_colissao1.yy",},},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_colissao",
+  "name": "Obj_gol2",
   "spriteId": {
-    "name": "Spr_colissao",
-    "path": "sprites/Spr_colissao/Spr_colissao.yy",
+    "name": "Spr_gol",
+    "path": "sprites/Spr_gol/Spr_gol.yy",
   },
   "solid": true,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
